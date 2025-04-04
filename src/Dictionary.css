@@ -13,3 +13,11 @@
   padding: 6px 20px;
   width: 100%;
 }
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px 0;
+  box-shadow: 6px 6px 21px -3px rgba(0, 0, 0, 0.16);
+}

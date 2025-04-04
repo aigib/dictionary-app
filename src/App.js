@@ -11,7 +11,7 @@ export default function App() {
         </header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyWord="universe" />
         </main>
 
         <footer>
