@@ -14,8 +14,6 @@ export default function Meaning(props) {
         {props.meaning.definition}
         <br />
 
-        <strong>Example: </strong>
-
         <em>{props.meaning.example}</em>
       </p>
 
